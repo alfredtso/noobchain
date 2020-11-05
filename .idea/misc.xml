@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClojureProjectResolveSettings">
+    <currentScheme>IDE</currentScheme>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Coding/cse511/CSE512-Project-Hotspot-Analysis-Template-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Coding/cse511/CSE512-Project-Phase2-Template-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/CSE512-Project-Hotspot-Analysis-Template-master 3" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
